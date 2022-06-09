@@ -1,1 +1,1 @@
-print("Hello World From Blue Cohort")
+print("Hello World")
