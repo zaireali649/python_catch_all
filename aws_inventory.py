@@ -1,10 +1,5 @@
 #!/usr/bin/env python 3
 
-#AWS Service Inventory
-#Authored by Jason Ceballos
-#5/14/2022
-
-
 #Create a list of services using Python. IE: S3, Lambda, EC2, etc
 #1. The list should be empty initially.
 
