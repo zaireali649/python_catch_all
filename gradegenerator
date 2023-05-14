@@ -1,4 +1,3 @@
-
 grade = int(input("What numerical grade did you get? "))
 
 if grade >= 90 and grade <= 100:
