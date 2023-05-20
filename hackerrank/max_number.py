@@ -1,3 +1,5 @@
+
+
 # function to get nth highest number (not including duplicates)
 # accepts list and nth number
 def max_score(numbers, num_highest=1):
