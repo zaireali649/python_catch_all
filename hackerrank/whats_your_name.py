@@ -1,4 +1,6 @@
-#
+
+
+
 # Complete the 'print_full_name' function below.
 #
 # The function is expected to return a STRING.
