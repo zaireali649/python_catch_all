@@ -1,6 +1,3 @@
-
-
-
 #!/usr/bin/env python 3
 
 #Create a list of services using Python. IE: S3, Lambda, EC2, etc
